@@ -11,4 +11,4 @@ wp services is a WP plugin that add services as a post type . It aims to be clea
 Simply clone this repository:
 
 ```bash
-git clone https://github.com/mrblinkk/wpservices.git
+git clone https://github.com/ghassenlarnaout/wpservices.git
